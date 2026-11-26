@@ -1,0 +1,1322 @@
+{
+  "contentVersion": 29,
+  "minSchema": 1,
+  "generatedAt": "2026-11-24",
+  "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data/releases/latest/download/",
+  "bundle": {
+    "file": "content_bundle.json",
+    "bytes": 548721,
+    "sha256": "0dfc480aa1c3492993efd8fdca2962537dd8d2b4e703958f7199e87b8cad7302"
+  },
+  "images": [
+    {
+      "file": "10-1940-dig-01-o3.jpg",
+      "bytes": 128870,
+      "sha256": "8e85c9213c103842afbc1c75d280d7bc839d8fe384431da1b43c1d0cf62556e4"
+    },
+    {
+      "file": "1280px-fra-angelico-052.jpg",
+      "bytes": 153255,
+      "sha256": "04028deac011f51181ecbdb2bae62afea0c85f8f836417e015046bdf598a5d20"
+    },
+    {
+      "file": "1688663932-1567677980065220-8-luca-giordano-2.jpg",
+      "bytes": 123907,
+      "sha256": "647e59647b08a3b1af4eec2e17936f2305d6a3286eac74106a422692ad0024c3"
+    },
+    {
+      "file": "1688663932-1567677980065220-8-luca-giordano.jpg",
+      "bytes": 276433,
+      "sha256": "7e90e03124d624445071a9404e25cae4171e38386da279f5e6f10c6cae268e0b"
+    },
+    {
+      "file": "20180323-121340-20180321t0843.jpg",
+      "bytes": 110155,
+      "sha256": "c9c1c721388ceea92039a4c805ad22493f01248fa954d0ea9bf38b1436aed610"
+    },
+    {
+      "file": "20260402-popeleoxiv-chrismmass-vaticanmedia-01.jpg",
+      "bytes": 154660,
+      "sha256": "f27f27c433d091c0a22d85c6950e2e24667f677fbd9e93861c314d5a8f4078ff"
+    },
+    {
+      "file": "20260421t0645-pope-francis-anniversary-1818477.webp",
+      "bytes": 139086,
+      "sha256": "d8263202edccaed36df73edfe8ddace2d9b620f5b49bb1e1c037b96e91890484"
+    },
+    {
+      "file": "305165639_n.jpg",
+      "bytes": 71449,
+      "sha256": "e8023187d43dbf29a99a587918e1aa4089dc3e9e65afe018dc1a59482c8ec003"
+    },
+    {
+      "file": "480652531-n2.webp",
+      "bytes": 127132,
+      "sha256": "fad42a8de8bc5e666b164624e6dac49c0515793f60eea55edf2893f60ee41d78"
+    },
+    {
+      "file": "480652531_n2.jpg",
+      "bytes": 203156,
+      "sha256": "53e055c74b227c516fe12b213f5f57e6638474ccc1f6c7c8ec406ce01d63e83c"
+    },
+    {
+      "file": "490838200-18062625386101198-8924686681594670110-n.jpg",
+      "bytes": 156441,
+      "sha256": "8343e150117533861921802688a2fd86ce3dd7c4bbdadfa9cc920ae2888d1510"
+    },
+    {
+      "file": "55428196340-67da6b3582-o.webp",
+      "bytes": 289306,
+      "sha256": "f192e52009861c63905ad3453e4ea8613b77d4e01f424b8f6d9a5341e20aad9c"
+    },
+    {
+      "file": "574104045-1251833783652979-3220663262263555288-n.jpg",
+      "bytes": 110198,
+      "sha256": "da904251f7d7017dad4daae2ba69f858d925e5675c4f1665e670495dd96ac4bb"
+    },
+    {
+      "file": "582976644-1264922725677418-8073576906046304993-n.webp",
+      "bytes": 296038,
+      "sha256": "31e5a615acc4af503590b5183a8ceb23b490c28caa5dfa2cf3d5f737da586635"
+    },
+    {
+      "file": "598156417_1303153858509806_5756579719379516857_n.jpg",
+      "bytes": 266310,
+      "sha256": "ce86c516898309d44a0f20be168abcc7cdbc73c48218529286176f72773f5f2a"
+    },
+    {
+      "file": "606394259_1307774538057716_1387371614566085349_n.jpg",
+      "bytes": 101010,
+      "sha256": "4a8a8b90950ef2790a12518af6e601b0f976700b904177e13ecb64edbd4a4194"
+    },
+    {
+      "file": "615918187-1315091503993873-3268197982416967178-n.webp",
+      "bytes": 20624,
+      "sha256": "733ae501c1db00ca1a72589de008b3dedac339b132214d939deed2bbdbf42f94"
+    },
+    {
+      "file": "687046261-1428050116025506-3592574347739880451-n.webp",
+      "bytes": 115784,
+      "sha256": "e9506f8da59df236b634f707df8fd6d7e0056d8b51a2f208ad3bc2b308cb7593"
+    },
+    {
+      "file": "716353236-18104048093101198-2807024506901054998-n.jpg",
+      "bytes": 281235,
+      "sha256": "fa149200b5c69d592833fbec94aa76fac332c53cba0da20a9effd384674792c2"
+    },
+    {
+      "file": "720571439-1436147075211965-1226273590722714583-n.webp",
+      "bytes": 166974,
+      "sha256": "724821fd74c16273b3b96eb2a1be7f647fce0e18f28406a5b06c8d6eea67c376"
+    },
+    {
+      "file": "ADVIENTO_2026_1.jpg",
+      "bytes": 358988,
+      "sha256": "366c410d331f83a19be1a2f2f44e59e6fb4722b51cef2abf5b4bb2e81effad5c"
+    },
+    {
+      "file": "ADVIENTO_2026_2.jpg",
+      "bytes": 365163,
+      "sha256": "644df8d10443d40dbfd860564478fe063254ffd16d7288a390cc5bc71b00471d"
+    },
+    {
+      "file": "ADVIENTO_2026_3.jpg",
+      "bytes": 362047,
+      "sha256": "61280354a270e67162f902433c2505cc77b888c802526da023d5ebd5522f26f3"
+    },
+    {
+      "file": "ADVIENTO_2026_4.jpg",
+      "bytes": 359305,
+      "sha256": "30465f05bbe0469493ce228ae11ffd09dd25628a23c68c727bb38d5d2cb47852"
+    },
+    {
+      "file": "Agnus_Konstantin_Korobov.jpg",
+      "bytes": 200195,
+      "sha256": "744b680df20497f5c5684e9b2154c27b1e6de63737d6f872c28a67eb093ebac8"
+    },
+    {
+      "file": "Altar_Completo.jpg",
+      "bytes": 227764,
+      "sha256": "5b61341ce100b9deae608ba161bfc32a9c36a7653e364d01629a23e5b94da4f0"
+    },
+    {
+      "file": "Anotaciones.jpeg",
+      "bytes": 119368,
+      "sha256": "bacb7c5ada3baa9fe8081ecb7ac26684e33f187a1f5f6bffed19628047d4a87d"
+    },
+    {
+      "file": "Basilica-Guadalupe-Misa.jpg",
+      "bytes": 116615,
+      "sha256": "5bc52c19446681a07be64103bf898a7b0624e048bb811aee6c6aebcf61558b18"
+    },
+    {
+      "file": "Basilica-San-Francisco-de-Asis_Colecta.jpg",
+      "bytes": 98275,
+      "sha256": "de22e2b224b97983d2a07fe6fbf61c5c90a832d69003c57fab240aab4e2759a9"
+    },
+    {
+      "file": "CARD_CUADRADA_ENVIO.jpg",
+      "bytes": 108197,
+      "sha256": "7f54cbf8ff590eff39ae89a035157c499c0c05d9ef2ed4ddd19f52352d9b9950"
+    },
+    {
+      "file": "Carlo_Acutis_Raul_Berzosa.jpg",
+      "bytes": 226196,
+      "sha256": "085e3939556f8961b5754e7ec26455f4a7f01cf4d796a34ff8a098a27f504ae9"
+    },
+    {
+      "file": "Catedral-san-patricio-ny-lavatorio.jpg",
+      "bytes": 188787,
+      "sha256": "da8181a6a3083992becbe91a1bf3d5e8dea7c3a792b770b4f4c7ccb6d64dd126"
+    },
+    {
+      "file": "Catedral_San_Patricio_NY_Caliz.jpg",
+      "bytes": 119916,
+      "sha256": "222f87596be954915348942cb7c23cd12fb837ccc2a250774727128b78ddb112"
+    },
+    {
+      "file": "Compare-una-imagen.jpg",
+      "bytes": 108601,
+      "sha256": "c3e8ed8b0dde2bc0cff2467479b7e743afe8d011ac2fdbd33093786fe55d7a46"
+    },
+    {
+      "file": "Comunion3.jpg",
+      "bytes": 162039,
+      "sha256": "8be7d1815cdec1c050d20092293689f584f8efc97698dbec27260c58e4212d70"
+    },
+    {
+      "file": "Cruz-San-Damian.webp",
+      "bytes": 120232,
+      "sha256": "d6226afdcae25ad200bc55906eaf911a806777d90a0df69e77725a912e3252e6"
+    },
+    {
+      "file": "Fr_Lawrence_Lew4.jpg",
+      "bytes": 209998,
+      "sha256": "7754ecf08f93ccffe7ff8b0db9416b2b861c4d67f51f16fa5216b58e14f4bdcf"
+    },
+    {
+      "file": "FraAngelico_Anunciacion.jpg",
+      "bytes": 216354,
+      "sha256": "74fcd254b6fcef2075b70f543e6aa350bfdd709b76112f0e516558c8c0fee0d7"
+    },
+    {
+      "file": "Fraccion.jpg",
+      "bytes": 98459,
+      "sha256": "ee6ed32461dc6e6588804992b69edeaf1279c05e48b8c604dd9b112ede5fe8ef"
+    },
+    {
+      "file": "Guadalupe-Incienso.jpg",
+      "bytes": 164189,
+      "sha256": "5f9ff59269a590e92acfb9ad4882bee4cdf1ca026b841c2db26d3629d0a40159"
+    },
+    {
+      "file": "LH-cierre-2.png",
+      "bytes": 486923,
+      "sha256": "162524fa1c421eebb9a440c10e7d6fdde208f61285a8d147bb1a95a2ffb65477"
+    },
+    {
+      "file": "LH-laudes.jpg",
+      "bytes": 186066,
+      "sha256": "c5b0e19e397e569de6cf0d21a1c53ebcca5588273488e018cc3591e13845c85c"
+    },
+    {
+      "file": "LH-oficio.jpg",
+      "bytes": 246330,
+      "sha256": "50c572d89777586c18809407310c9153398cbebd444f305ead11a8a723e35aff"
+    },
+    {
+      "file": "LH-pie.png",
+      "bytes": 105487,
+      "sha256": "5631147d373bab39806d261719f0caf3a79d7a95b774b12ed9c96d6917320eed"
+    },
+    {
+      "file": "La-ultima-cena-pintura.jpg",
+      "bytes": 170085,
+      "sha256": "203b6bcf74bf76539e3c91ef49e4f5aeadab1135f7d8eafb0a5be43779e0587c"
+    },
+    {
+      "file": "La_Liturgia_1.jpg",
+      "bytes": 270703,
+      "sha256": "b4e047c35be7274b48a6856b5552b10130beb56308655e90bdd6471fca932cbb"
+    },
+    {
+      "file": "Liturgia-Lat.jpg",
+      "bytes": 114254,
+      "sha256": "a89dc503f86ed9d7cb90653f39f7a30fb101fbc942459e763f38a72e921f72c9"
+    },
+    {
+      "file": "OTRAS_APPS_AUREA.png",
+      "bytes": 98433,
+      "sha256": "aef5032b35b10a743aa14aadf94a4ef3183c21f6779aa50b3d25b722697c7451"
+    },
+    {
+      "file": "Ofertorio_Preparacion.jpg",
+      "bytes": 149618,
+      "sha256": "f75f78b762e4f80088b375a2a773b1ba8eb4a71e77144ec4c55b7691cc775f93"
+    },
+    {
+      "file": "OracionComunion.jpg",
+      "bytes": 162321,
+      "sha256": "5e207deca134156af260c2b5aae3813c3416b3ffc60e50f3938ec7062ba6a820"
+    },
+    {
+      "file": "Panorama360_1.jpg",
+      "bytes": 581422,
+      "sha256": "7b084b490412ec76923b7da21c72d3e322e4ecaa30f48d366fae3ca67d36d66d"
+    },
+    {
+      "file": "Pantocrator-del-Sinai.jpg",
+      "bytes": 301931,
+      "sha256": "9ce3dd23c828306b1cff75f1a214752239880f061b981a79be74350e6036eb4c"
+    },
+    {
+      "file": "Patriarcado-latino-jerusalen-ofrendas.jpg",
+      "bytes": 165892,
+      "sha256": "073f4060bc039159bb18597114a4d1b00d5d9b57878260e05293239faf68f12f"
+    },
+    {
+      "file": "Patriarcado-latino-jerusalen-pan.jpg",
+      "bytes": 154165,
+      "sha256": "a231e0ccf4eaf6998735028ced158775fea6058b656db81709cc2ff177b78883"
+    },
+    {
+      "file": "Persignarse.jpg",
+      "bytes": 108290,
+      "sha256": "165699112bad1ba90ccfa4e7c329fd4ff72b218e481969110ccc79f9b048fed2"
+    },
+    {
+      "file": "PlegariaEucaristica.jpg",
+      "bytes": 279662,
+      "sha256": "b5b72f4840b20fd33773e17dcde0abeac4ff17d8e6f8961660bb6afe2cb8e1f0"
+    },
+    {
+      "file": "Rafael-La-Pesca-Milagrosa.jpg",
+      "bytes": 241051,
+      "sha256": "f2eea3f5031a1860e43bdaeddec502fe986b0f47c2050fba74314ec98977899c"
+    },
+    {
+      "file": "Raul-Berzosa-Trinidad.jpg",
+      "bytes": 165336,
+      "sha256": "47a47ccd19374725c61d988c25afd7b6881913c924aaa7e9c37941563ca523c1"
+    },
+    {
+      "file": "SHARE_1.jpg",
+      "bytes": 183207,
+      "sha256": "5c58ef4e26fec5f99c7dfefb936f2f7855cf80ab4973385772d2ff42c1af3cde"
+    },
+    {
+      "file": "SHARE_2.jpg",
+      "bytes": 206147,
+      "sha256": "06eef9aec59c4429ac81518d8ac47dc15202ec9583efb5cdac7379b9791ab055"
+    },
+    {
+      "file": "SHARE_3.jpg",
+      "bytes": 196818,
+      "sha256": "22f6ae8aa9cfbc5647b83b4d2768658eca6c40096ccb9ccc2668963a44161678"
+    },
+    {
+      "file": "SHARE_4.jpg",
+      "bytes": 240677,
+      "sha256": "f01428ef3c9e174ef6b3301b9cdc666bb585ffdc6677eba8f6477993d94909cb"
+    },
+    {
+      "file": "SHARE_5.jpg",
+      "bytes": 210379,
+      "sha256": "4b748dbb701bfe61fac16c0c8aded4a65c98d819be75cf99748698c447775521"
+    },
+    {
+      "file": "SHARE_6.jpg",
+      "bytes": 216586,
+      "sha256": "c1d92f66dc2540445c838908a4d20cd2ce59d998e82024b6a7cbdd1be4648932"
+    },
+    {
+      "file": "SHARE_7.jpg",
+      "bytes": 252700,
+      "sha256": "bd2acaa081df44292400c4f63b1030c36132d5cdecc276a76ca54e24c03cf165"
+    },
+    {
+      "file": "SHARE_8.jpg",
+      "bytes": 231346,
+      "sha256": "e2c8dcbb39cad5686a5291afe2f203a8b3b5802261ab29318a0dfdcf1c54b359"
+    },
+    {
+      "file": "SHARE_9.jpg",
+      "bytes": 171052,
+      "sha256": "1f37448a971f662d1fdd46b45403c76bf84d432d5e87bd325ad7d2e91574938b"
+    },
+    {
+      "file": "SJuan_Raul_Berzosa.jpg",
+      "bytes": 100868,
+      "sha256": "6f9e7ce76e49e372f4a1d4ed718920f9c3c4e522410af6df42a2909bc0ea5a03"
+    },
+    {
+      "file": "San-Francisco-historia.webp",
+      "bytes": 226292,
+      "sha256": "eaaf0ccdf9673ba23f53f440fe27f6e5667df7dbb322a39b1183579a632d8075"
+    },
+    {
+      "file": "San-agustin-estudiando.jpg",
+      "bytes": 200667,
+      "sha256": "c7565dab95476317b3bcef5a7959cbc50f481db3e4a294ec8e55ef7f29e192ba"
+    },
+    {
+      "file": "SantoSantoSanto.jpg",
+      "bytes": 239483,
+      "sha256": "b8a5b1ac8cdcf92d35864dd7558bc5d428b94cc1a1041aae11935cab3b8fb94b"
+    },
+    {
+      "file": "St.-Agatha-St.jpg",
+      "bytes": 305355,
+      "sha256": "e5f55a348f99c2c1187fba3678b7b307eec300964d7667e15e44ea308f9bf8e1"
+    },
+    {
+      "file": "Sta_Maria_Guadalupe_Consagracion.jpg",
+      "bytes": 139959,
+      "sha256": "9745e01dcc918ccbf1016fdc6615c29f9f46e122954c3e086bc91d0a25cf5c11"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_ANUNCIACION.jpg",
+      "bytes": 162223,
+      "sha256": "7beed42664cb30cbe8f1f5f897d9f473cb0e0e9f45c26fb4b6eb26983850e23c"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_ASUNCION.jpg",
+      "bytes": 165765,
+      "sha256": "cf0bb574ba3bad3d361a8401024b819c41da9df2c5a560c1c39984e6e1b137d5"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_CRISTOREY.jpg",
+      "bytes": 150965,
+      "sha256": "2abaa7fd2e9112500fca1ebdb786b0d4a300c80d26098ec4769ec818a9b48751"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_GUADALUPE.jpg",
+      "bytes": 138365,
+      "sha256": "87a8795cb0ff347b95748bc665f07aba105a7c62eb50d961cfde7390049bf33c"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_INMACULADA.jpg",
+      "bytes": 139727,
+      "sha256": "d0204bc350f3ac1ccc8a50fe151dcf15a595abe134e9196bcd55688fb37c16dd"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_MADREDEDIOS.jpg",
+      "bytes": 143855,
+      "sha256": "2d3a98c62114b69cb478aba2c2182d534803f12d52e18520ab29ddcd2e266f29"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_NAVIDAD.jpg",
+      "bytes": 97087,
+      "sha256": "32759b5111c79f6f235d657eb89fbf27be699aa375454d26f74c719ca706415b"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_TODOSSANTOS.jpg",
+      "bytes": 187370,
+      "sha256": "85e8a0a9f207316870d03e1448eefad4919e7f6354a44f928beb2f9faa1e49f9"
+    },
+    {
+      "file": "WIDGET_ESPECIAL_VIRGEN.jpg",
+      "bytes": 194558,
+      "sha256": "c361b35996f7b4e854ceccbe0559d29f95fa253d734cfe9e307f31c040e46850"
+    },
+    {
+      "file": "WIDGET_HOY_1.jpg",
+      "bytes": 144353,
+      "sha256": "e558536f32f29fcfb6ee209c7a9ab3b3bb85c11fb8de2e8dab1dd1dc28d19805"
+    },
+    {
+      "file": "WIDGET_HOY_10.jpg",
+      "bytes": 104015,
+      "sha256": "5d2d388392e44f33ba87db492ab1dc346902004bbe6982fe8c21218138f16b2a"
+    },
+    {
+      "file": "WIDGET_HOY_11.jpg",
+      "bytes": 70082,
+      "sha256": "361c01f48923d800a9828992219b44bd1b0217e6ba20fb6cb85e81c11d92a0c8"
+    },
+    {
+      "file": "WIDGET_HOY_12.jpg",
+      "bytes": 195250,
+      "sha256": "e16ef94c954ba92cd0a72e548fb6d1a18198d9df10cbe054f5060c65e976ceb7"
+    },
+    {
+      "file": "WIDGET_HOY_13.jpg",
+      "bytes": 49939,
+      "sha256": "15086800fb343abaaca585a5be2cf1a1565675fd95561d2986b0a830315414d4"
+    },
+    {
+      "file": "WIDGET_HOY_14.jpg",
+      "bytes": 106765,
+      "sha256": "7b00a9d7fff8e3e2125da3a5bb01c4e0c405361f979294b9c9469c1bd1faf76c"
+    },
+    {
+      "file": "WIDGET_HOY_15.jpg",
+      "bytes": 289240,
+      "sha256": "a622a8acaabfbcf03e98ad87d9976dd18c9f9107ec627a078375fd92de805603"
+    },
+    {
+      "file": "WIDGET_HOY_16.jpg",
+      "bytes": 248963,
+      "sha256": "31422e8776c3a1bf31297473851bd15aaaf69c667a191dce9f6df0fc1a5cf45b"
+    },
+    {
+      "file": "WIDGET_HOY_17.jpg",
+      "bytes": 212693,
+      "sha256": "f3391cb2fe00262ff676f5ca5ec2e2e0f9796b07e5271f5070629b8909014133"
+    },
+    {
+      "file": "WIDGET_HOY_18.jpg",
+      "bytes": 226088,
+      "sha256": "45927bb02e590668a77ba15d18cd86a564b9492cf09896a4c0eab2872310a2ce"
+    },
+    {
+      "file": "WIDGET_HOY_19.jpg",
+      "bytes": 82506,
+      "sha256": "308a569e516dfcdf80e72108921b54abe8035ba305c5ca3f94cb254a16af5ecd"
+    },
+    {
+      "file": "WIDGET_HOY_2.jpg",
+      "bytes": 121304,
+      "sha256": "9eca6629dc7a3f844c59dba21a58ae5efcc5387de9909036315c699ceff81ab5"
+    },
+    {
+      "file": "WIDGET_HOY_20.jpg",
+      "bytes": 138631,
+      "sha256": "308fff41da15ff2b1fbcc4ac4719acc817c836bfc60cfcd76ec074a66812af74"
+    },
+    {
+      "file": "WIDGET_HOY_21.jpg",
+      "bytes": 133205,
+      "sha256": "b66dbb7d2ac5554e1ed98e68f380261bc7e3bc7966a8c6c3dd5fe0808d7e0c11"
+    },
+    {
+      "file": "WIDGET_HOY_22.jpg",
+      "bytes": 186095,
+      "sha256": "4ede14637e111726e66d34d831dc5ab2255dc019e31242d8f4b9e74392f4cc43"
+    },
+    {
+      "file": "WIDGET_HOY_23.jpg",
+      "bytes": 126914,
+      "sha256": "5ea23dcc393b278d849e595740087bab19cb758ad918e129fc60f16d939fef72"
+    },
+    {
+      "file": "WIDGET_HOY_24.jpg",
+      "bytes": 64092,
+      "sha256": "59b72cd81c8c2db2dad2602505cd5e787932dbb332f9800a6f1dd4fe6ba356c7"
+    },
+    {
+      "file": "WIDGET_HOY_25.jpg",
+      "bytes": 77485,
+      "sha256": "5b0956029f4e597d2cf734f932c4ec3c75dcd263e9fda44b867c9198898a69d0"
+    },
+    {
+      "file": "WIDGET_HOY_26.jpg",
+      "bytes": 81386,
+      "sha256": "60dbf0c33b704aac8477f801975d465cb26d9b20f326735ef84a45c706a84ce5"
+    },
+    {
+      "file": "WIDGET_HOY_27.jpg",
+      "bytes": 89665,
+      "sha256": "a5edb482bcb9a6dac9d212a8700808d472867b3c72119081a33a5d31bc90dfef"
+    },
+    {
+      "file": "WIDGET_HOY_28.jpg",
+      "bytes": 103946,
+      "sha256": "6fd4cc74f63935d7da00d407d36ea84edad4162f0d803b582b43c523a644a68d"
+    },
+    {
+      "file": "WIDGET_HOY_29.jpg",
+      "bytes": 86113,
+      "sha256": "7a90fefa82188f33e2dff8b3d4dd2f8e30d6a1ac0038194e4e55067e6f816d30"
+    },
+    {
+      "file": "WIDGET_HOY_3.jpg",
+      "bytes": 185711,
+      "sha256": "2181678802515f28c931cfc5862c05e0e1e8e2adf8bf94b99e9b5edf919e395f"
+    },
+    {
+      "file": "WIDGET_HOY_30.jpg",
+      "bytes": 74802,
+      "sha256": "63268667d9b112342f79879cf95a2f12db254a46d32de33844a5303a8be11124"
+    },
+    {
+      "file": "WIDGET_HOY_31.jpg",
+      "bytes": 70408,
+      "sha256": "f08807d99f2a83fa5cbdfe2aed9e2b6ca406b87fed6ee61ad2dc259d31ebc800"
+    },
+    {
+      "file": "WIDGET_HOY_32.jpg",
+      "bytes": 158673,
+      "sha256": "b206f2dd325322398fa35c052c0db89da357630a54c0460fc5b49d6963b1eb22"
+    },
+    {
+      "file": "WIDGET_HOY_33.jpg",
+      "bytes": 43176,
+      "sha256": "4850880b1304c29dd2b277b4c84d01a16532171ee16dd835307f83392b1730ab"
+    },
+    {
+      "file": "WIDGET_HOY_34.jpg",
+      "bytes": 160149,
+      "sha256": "109ebc9823471f4394397ccdbb1e9d90fe9632745d3c1c90bacef7541eec684c"
+    },
+    {
+      "file": "WIDGET_HOY_35.jpg",
+      "bytes": 42678,
+      "sha256": "7922e509267f936efbafcd9e6ec580b467202d2182f851572c0a93af84882c7e"
+    },
+    {
+      "file": "WIDGET_HOY_36.jpg",
+      "bytes": 231899,
+      "sha256": "73a51145d5f5864ecf12bccecd5b86da4723c7bb440d6043b2dcc5ba84d5bb73"
+    },
+    {
+      "file": "WIDGET_HOY_37.jpg",
+      "bytes": 52048,
+      "sha256": "81041aead56fd0d6a08f9346ee00f7871dc916378b40c1b6b512d3dc810229be"
+    },
+    {
+      "file": "WIDGET_HOY_38.jpg",
+      "bytes": 90616,
+      "sha256": "65933c812d4d8009f471497fb61b04a9339297a1666b940d565e8cd4be55cc49"
+    },
+    {
+      "file": "WIDGET_HOY_39.jpg",
+      "bytes": 90693,
+      "sha256": "42fdd28005b07d4a0984abaf5ef38bcb189f67d6ef226725c2ab3c19b1d2766d"
+    },
+    {
+      "file": "WIDGET_HOY_4.jpg",
+      "bytes": 219557,
+      "sha256": "c320382375aaecc52f2c80e463d640240f88a8eea10ed94b1f54023149cd720e"
+    },
+    {
+      "file": "WIDGET_HOY_40.jpg",
+      "bytes": 83159,
+      "sha256": "645e8cf55bb84fb5f9bd62c73d9756935569ba74526d0a8ae680b1081bca4222"
+    },
+    {
+      "file": "WIDGET_HOY_41.jpg",
+      "bytes": 133243,
+      "sha256": "30b8bc019dc261f692d5e5a11c71f338d50e632972d745a2298a53764aca665d"
+    },
+    {
+      "file": "WIDGET_HOY_42.jpg",
+      "bytes": 111497,
+      "sha256": "5430011c7fc98e1499d9c4d9b9422a680de65631964fc4907336d08cea8ba917"
+    },
+    {
+      "file": "WIDGET_HOY_43.jpg",
+      "bytes": 100588,
+      "sha256": "010472115e9d5eb2a4da9a43e7a42c63dca662d04d92bbcf027e2fc5b7335f74"
+    },
+    {
+      "file": "WIDGET_HOY_44.jpg",
+      "bytes": 93748,
+      "sha256": "b46166aa9bb6cd0e5a533f0fa1e4d79ca2603be515ce3e37c88e6c5d5b587647"
+    },
+    {
+      "file": "WIDGET_HOY_45.jpg",
+      "bytes": 196034,
+      "sha256": "b16abd715df4ec3d9ff5e4b1bd60cfc7295ed36c78039345fcaaeb1ee50e65cc"
+    },
+    {
+      "file": "WIDGET_HOY_46.jpg",
+      "bytes": 189570,
+      "sha256": "f17d5f4de9d02fd7ee04259e00c452d24c85ba73a67c2d5a849a1dad5420b8d2"
+    },
+    {
+      "file": "WIDGET_HOY_47.jpg",
+      "bytes": 52766,
+      "sha256": "82661a601c861603690fd82d7dbd2ce6ffab8e0986a288b0831586c85fde5d8c"
+    },
+    {
+      "file": "WIDGET_HOY_48.jpg",
+      "bytes": 131387,
+      "sha256": "ce2e217650f36ef92dfeaa32606664fdbf1d65eb60625c66a66eb0b49371870a"
+    },
+    {
+      "file": "WIDGET_HOY_49.jpg",
+      "bytes": 147795,
+      "sha256": "633c12eccf650edafa788991015d2a3cd1de06b9cdeb4a17303f88221316de5c"
+    },
+    {
+      "file": "WIDGET_HOY_5.jpg",
+      "bytes": 94162,
+      "sha256": "c18a674ecf0058bbdb600edab999910330bca39f6bd4a259f711a034ccd9973b"
+    },
+    {
+      "file": "WIDGET_HOY_50.jpg",
+      "bytes": 114031,
+      "sha256": "ad95786203d0298a7e4588ceb2e141d7771e6b3d8022a0ffcef14b6765c6be2b"
+    },
+    {
+      "file": "WIDGET_HOY_51.jpg",
+      "bytes": 90387,
+      "sha256": "25c7ed4862d8ea3fdeef01a13f5ca9105c83ee4b9b08d3165f0f78f29a53b552"
+    },
+    {
+      "file": "WIDGET_HOY_52.jpg",
+      "bytes": 114278,
+      "sha256": "6089ed66949eabad805bf85aef84b44ddb1094db669c92daea01edac6821fb57"
+    },
+    {
+      "file": "WIDGET_HOY_6.jpg",
+      "bytes": 76094,
+      "sha256": "03c188b7102c32b4b8330e2f324778c808362025b9fab55e142b8a8c3416ac39"
+    },
+    {
+      "file": "WIDGET_HOY_7.jpg",
+      "bytes": 108313,
+      "sha256": "7566d32d1ec0f604deb59149a1a23bf19442992defbb2ceb83fdf5f174331d06"
+    },
+    {
+      "file": "WIDGET_HOY_8.jpg",
+      "bytes": 71259,
+      "sha256": "aef6b169a8f550338759b28dddf44d8a3e551af41667c34474856b4808ccdfa9"
+    },
+    {
+      "file": "WIDGET_HOY_9.jpg",
+      "bytes": 207572,
+      "sha256": "728555d6a834a9de565daff5a86fc1bb751f8a4d07d0ca956620942ce3882b9b"
+    },
+    {
+      "file": "Widget_MISA.png",
+      "bytes": 1419246,
+      "sha256": "046bf5506e0b716b8716f38a86226538971b2834fcd66ac80a3df88d38fe73d3"
+    },
+    {
+      "file": "aberystwyth-university-school-of-art-museum-and-galleries.jpg",
+      "bytes": 156549,
+      "sha256": "627436125ec3a9bc58f20c402f39d6394fa5dce63ed127fd3bc318bdc237a920"
+    },
+    {
+      "file": "acerca.jpg",
+      "bytes": 227495,
+      "sha256": "12c3d3944eb20bb1a59cb05855f734eaad5e55d6ad7bd62f9c4ca78fe8fa5bf9"
+    },
+    {
+      "file": "adviento-2026-corona-1.jpg",
+      "bytes": 277348,
+      "sha256": "5015ec7b9e170cd1d3df7e4d17cb509939119c08b83971a4263fd7c4c03287ff"
+    },
+    {
+      "file": "adviento-2026-corona-2.jpg",
+      "bytes": 286177,
+      "sha256": "9f8984b004321620e8eaf42386c92d9a07cc9d8c0b167c65b223b1fe8906cd34"
+    },
+    {
+      "file": "adviento-2026-corona-3.jpg",
+      "bytes": 302698,
+      "sha256": "f4c4effee66dbdf3f578b710a0ac9aff6a65015bede3713be440615690e36818"
+    },
+    {
+      "file": "adviento-2026-corona-4.jpg",
+      "bytes": 341699,
+      "sha256": "4b5160463bdf891402ffa6d578b1dc086e8233fdabad62feb27bd671593e7096"
+    },
+    {
+      "file": "alfonso-scarpa-Y7289sV3BIo-unsplash.jpg",
+      "bytes": 179036,
+      "sha256": "33a12bea5c88e3e057101ca06002c080b3d88cab77a90c180bd3bd69dc9c0f7e"
+    },
+    {
+      "file": "annie-williams-oKQWqShxjXY-unsplash.jpg",
+      "bytes": 243057,
+      "sha256": "c5be489efe64876946c3635f6dbfbaf8710ba71479d446a55b40aec0e3cba262"
+    },
+    {
+      "file": "anuja-tilj-z26ad99tlzi-unsplash.webp",
+      "bytes": 293624,
+      "sha256": "72e8e76286e9f1ca08c7432f2f51768e89dc377e2894ccf866782f9947eac5ec"
+    },
+    {
+      "file": "aparicion-de-la-virgen-a-san-bernardo.jpg",
+      "bytes": 145554,
+      "sha256": "268eab8afa816d89271188e2afbd9c3c480ed942ace83395b5b86c3bcac4c7bb"
+    },
+    {
+      "file": "basilica-papale-di-santa-maria-maggiore-7878.webp",
+      "bytes": 71954,
+      "sha256": "e242315e60bbc6377ca67f8694e34b1146256bd56444402ad91e1ef0dd6112ec"
+    },
+    {
+      "file": "basilica-papale-di-santa-maria-maggiore11.webp",
+      "bytes": 277934,
+      "sha256": "ddb15e2e354fdb359d957055a7a9c9212de88ed993a4ee76a1148b1b5d8f51ac"
+    },
+    {
+      "file": "basilica-san-francisco-de-asis-crucifijo.jpg",
+      "bytes": 128154,
+      "sha256": "560e10795263d80aed54bef87ed229c4eba6f776b984fd4dd97a2494a537bc5c"
+    },
+    {
+      "file": "basilica-san-francisco-de-asis-evangeliario.webp",
+      "bytes": 100722,
+      "sha256": "a63c65d4ae3bf0ee65e04fa240cd7509abde2092e806acc8b7d06f14b4140d78"
+    },
+    {
+      "file": "basilica-san-francisco-de-asis-francisco-de-asis.jpg",
+      "bytes": 248140,
+      "sha256": "7dba94d95298aa75c1db1a18dc353e5602cd47f2404085ced3db93a83be633cb"
+    },
+    {
+      "file": "bendicion.jpg",
+      "bytes": 209822,
+      "sha256": "4c17426f05d32d2375e72192343a57a02919afdb86f532357a47b8c30eb905cc"
+    },
+    {
+      "file": "brooklyn-museum-the-lord-s-prayer-le-pater-noster-james-tissot.jpg",
+      "bytes": 166429,
+      "sha256": "06087de4af728fd7bab660ec4fd7986dab65b8a03db9bdc380e2a26de8df5401"
+    },
+    {
+      "file": "calendario.jpeg",
+      "bytes": 152350,
+      "sha256": "c3d8ca3aa8623b94a1f5a7b70d53401ed5d070f5d0c79886c9b106b99f64c356"
+    },
+    {
+      "file": "caliz-2.jpg",
+      "bytes": 95430,
+      "sha256": "b4c4b362a2689e0531aebccbd49a087ea3e96c6b4a93b4dccf149b44ec482c78"
+    },
+    {
+      "file": "catedral-basilica-de-san-juan-de-los-lagos3.webp",
+      "bytes": 86374,
+      "sha256": "cdd5a5677eea61ca2f36f2d71f0406d65e2d6a89661dcc5add3da0d7e65517eb"
+    },
+    {
+      "file": "catholic-church-england-and-wales-0011.jpg",
+      "bytes": 191333,
+      "sha256": "6b4d9193ef3b0300367b3d015970fe7f1cadfacaa681b0451699bdb679af76ff"
+    },
+    {
+      "file": "catholic-church-england-and-wales-0031.jpg",
+      "bytes": 166180,
+      "sha256": "db3662746437c2d80fb9c3cc65c1364371ca1d536ff07924ca0495b3a315eb89"
+    },
+    {
+      "file": "catholic-church-england-and-wales-008.jpg",
+      "bytes": 163291,
+      "sha256": "8e7ec9db8bd0853975fe2345e9ac25a8a68d7e7ec4ed1c082f922c2406306878"
+    },
+    {
+      "file": "catholic-church-england-and-wales-011.jpg",
+      "bytes": 145575,
+      "sha256": "86288c544c8ae6358527fd98ca7702e77e27a8e9251bfd749d352aab65dd42ce"
+    },
+    {
+      "file": "catholic-church-england-and-wales-021.jpg",
+      "bytes": 106179,
+      "sha256": "31725b425a43b0bd4b8b4459388648a60f3ea0a07b8b78081a45ccf0540a2825"
+    },
+    {
+      "file": "catholic-church-england-and-wales-028.jpg",
+      "bytes": 210161,
+      "sha256": "20a82d248967c9dbca50be9dcef0c5f129c5516d32b3d778f59dc5aa942a14bc"
+    },
+    {
+      "file": "catholic-church-england-and-wales-046.jpg",
+      "bytes": 238481,
+      "sha256": "e440bddb1fd2fb6004d0b8edc75fc333106083b3377c41efdf5c12c40dcaf691"
+    },
+    {
+      "file": "catholic-church-england-and-wales-049.jpg",
+      "bytes": 87138,
+      "sha256": "b19e2e93df993b2e08742f00f6d10171c5911e9b91ade755fb8c60a80a4c0a13"
+    },
+    {
+      "file": "catholic-church-england-and-wales-051.jpg",
+      "bytes": 136875,
+      "sha256": "59b28512b666f16e0ae578aa1b73f3ea36376515a0ec1a0dbf562408a316bb34"
+    },
+    {
+      "file": "catholic-church-england-and-wales-075.jpg",
+      "bytes": 180793,
+      "sha256": "5cc62d44de187dc539495469eeb856b03e562f98daf8cffcee85753c826d6403"
+    },
+    {
+      "file": "catholic-church-england-and-wales11.jpg",
+      "bytes": 109877,
+      "sha256": "098ad9a5af647e995e619787f55430c4e067871c8d0f1144cf4dbff5129e07b7"
+    },
+    {
+      "file": "catholic-church-england-and-wales36.jpg",
+      "bytes": 186929,
+      "sha256": "c7ef6a47b0062cb189c614d5827ce095658ff5ebefd570dd39c92feaefb83e83"
+    },
+    {
+      "file": "catholic-church-england-and-wales49.jpg",
+      "bytes": 221960,
+      "sha256": "44e1b6490c51d6711959e0b10ec25305710de3180c73eaf7f7b2137837545fe4"
+    },
+    {
+      "file": "catholic-church-england-and-wales56.jpg",
+      "bytes": 166206,
+      "sha256": "3643cf1b01dba2c7bdbe00a399bf6be3b9e98140c72fc2eb3338eca5294ba71a"
+    },
+    {
+      "file": "catholic-church-england-and-wales6.jpg",
+      "bytes": 187966,
+      "sha256": "248562c7c073201272b8e72658b8997bad9f4559bb8f1d8fee340bd4c603c18b"
+    },
+    {
+      "file": "catholic-church-england-and-wales75.jpg",
+      "bytes": 142890,
+      "sha256": "4cae1d5fb0f5be4499282fe213f9a7040229e510ba46c1035bb72aa196521267"
+    },
+    {
+      "file": "catholic-church-england-and-wales84.jpg",
+      "bytes": 191531,
+      "sha256": "963a9b396906f52b21713981468eaabfd80781c69ce75de28064a003ab87402f"
+    },
+    {
+      "file": "catholic-church-england-and-wales9.jpg",
+      "bytes": 142349,
+      "sha256": "e1b292195a1e39dc2fc15742e3faf0c9c9f339d435dda2ea10930aab50e939cd"
+    },
+    {
+      "file": "chartes-cathedrale.webp",
+      "bytes": 151592,
+      "sha256": "500a8995dcaa8e8f4abd8b045ba7ac2d2ba1b0371c1819edac249c80a51ffac4"
+    },
+    {
+      "file": "christian-harb-OjbUJBT65tk-unsplash.jpg",
+      "bytes": 186641,
+      "sha256": "42fb95f4a98872fadbc84eff521c50588dc06ac7123890e4d630c43782b7b936"
+    },
+    {
+      "file": "comsantos.jpg",
+      "bytes": 288707,
+      "sha256": "d39a4557cff0943d7f79149961f7c4d85ed2da35432e7163e4d7069f35226d08"
+    },
+    {
+      "file": "copones-3.jpg",
+      "bytes": 69312,
+      "sha256": "84748cebc80c3a9d904779c4725afce91ab1fd9603bd311913ddcc805d3b1054"
+    },
+    {
+      "file": "corporal-2.jpg",
+      "bytes": 21545,
+      "sha256": "207223143dd83a5b21d4b02374ca36ae128cce36735ef5281772cbc65aa78ec4"
+    },
+    {
+      "file": "d2d78f2b2d457cb32383b28c3f6732c1-2.jpg",
+      "bytes": 211004,
+      "sha256": "517fce6616955fe9e851915d4e058ed163e1496c119ff5cbfe69bb27c3956c38"
+    },
+    {
+      "file": "despido.jpg",
+      "bytes": 286105,
+      "sha256": "be8f6726cb9f24a0fb3c785f578cd4ba5df8059d5009a7f59633697be7f36541"
+    },
+    {
+      "file": "diocesi-di-roma-23.jpg",
+      "bytes": 244826,
+      "sha256": "ed13053430ae0eec020d0ca9f10b29fb46c90dcb36b84fe51abbd95cbfec8c00"
+    },
+    {
+      "file": "domingofuerte.png",
+      "bytes": 13790,
+      "sha256": "d33483a0ec24b2776689124014b221bc0348e136270c4ed56e6262583327b79f"
+    },
+    {
+      "file": "domingoordinario.png",
+      "bytes": 13656,
+      "sha256": "96e0ed11d0874496b75888281e81aff617ddf6263e795aea79b465847183a7a9"
+    },
+    {
+      "file": "duccio-di-buoninsegna-the-raising-of-lazarus.jpg",
+      "bytes": 302041,
+      "sha256": "8fbb2e41ecd9c902e45ca6d607619cd4152083988b4fde111ded602789ffbbae"
+    },
+    {
+      "file": "eliasyelangel.jpg",
+      "bytes": 124086,
+      "sha256": "d08c39bc9294ace6d8eba2f80804ddae708d0f763584e35fd318c1bd8031cd45"
+    },
+    {
+      "file": "embolismo.jpg",
+      "bytes": 227400,
+      "sha256": "ab536bebd864eb9541ab90674321fb0d3598c988139fc46bd167625a86066838"
+    },
+    {
+      "file": "evangeliario2.jpg",
+      "bytes": 148829,
+      "sha256": "38bfe386ec27bb2a2b2049844846e204d5802ffa49fe4f9078e30fe54df78028"
+    },
+    {
+      "file": "ferias1.png",
+      "bytes": 14097,
+      "sha256": "6af8523b45230b6ec60b735d6b360feecea79bc2e3d667cfd621258a01885cfa"
+    },
+    {
+      "file": "fiestas1.png",
+      "bytes": 13854,
+      "sha256": "a2750f53564202867ca7209cd793e6f81de1479cee8e5a2bb367ef551cb7bedf"
+    },
+    {
+      "file": "fortunino-matania.jpg",
+      "bytes": 214754,
+      "sha256": "81bbdb581555ab0b95140e802fa530bf8e823d10a306451f5537a391ff5cb696"
+    },
+    {
+      "file": "frlawrence-sanvitalemoses.jpg",
+      "bytes": 246545,
+      "sha256": "26918040507bf971d5a2156ebe191297162733587eab2b1c30152ef9179b13c6"
+    },
+    {
+      "file": "gabriella-clare-marino-uYbE4uedh20-unsplash.jpg",
+      "bytes": 387213,
+      "sha256": "193d4249e3a9afce5d07e917bd8f2c3a5078813ecc488db670d5e63069de7319"
+    },
+    {
+      "file": "gerard-van-honthorst-king-david-playing-the-harp.jpg",
+      "bytes": 141785,
+      "sha256": "699eb2ea4c56cf321655d2951d4dd27ed0118539e1d50f5ec43ad44d579cfafd"
+    },
+    {
+      "file": "gestos9.jpg",
+      "bytes": 130390,
+      "sha256": "5df41cf514a35c03bfd5bf6b385116e8f1c0e1c2aedd1e6e915aa1dd54b17579"
+    },
+    {
+      "file": "gianna-b-kfpyjlwvtza-unsplash.jpg",
+      "bytes": 31180,
+      "sha256": "adc6f8fc49e37f93c14852f3292fd6099e00398817f08c84eefdf7b2132a26aa"
+    },
+    {
+      "file": "img-0726.jpg",
+      "bytes": 23497,
+      "sha256": "cc5621c69344c343fcac5a76563acf2b31c43a5947696c145021c5cbd54133de"
+    },
+    {
+      "file": "img-1073.jpg",
+      "bytes": 267373,
+      "sha256": "32cb7a993708be52f58a986b1cd11e85ed3f15d0ef66c4e7f0b9630c5b7ad62b"
+    },
+    {
+      "file": "img-4499.jpg",
+      "bytes": 237435,
+      "sha256": "e025bd899fe8efe56ac2d7da5716f58c20cd8d08ec6dd1a1cbd9bb82de003212"
+    },
+    {
+      "file": "img-5037.jpg",
+      "bytes": 214023,
+      "sha256": "c6c3fb15fe68fe6dfdc819d668ed04d407e93016143a5615d5e5052e5efbbadb"
+    },
+    {
+      "file": "img-8420.jpg",
+      "bytes": 254838,
+      "sha256": "45b835fe360271aeaf4bb1d2794a3056c59d97c98b1dd0de24945b34ff43621e"
+    },
+    {
+      "file": "inclinacion_humildad.jpg",
+      "bytes": 293709,
+      "sha256": "7e5b3ef065441524881f5797f1c1eeec68c098a967753266806889a3b0d02426"
+    },
+    {
+      "file": "inclinacionprofunda.jpg",
+      "bytes": 105252,
+      "sha256": "49f07670352c5d0191febbdf8ccfa406bad9f11ca9b028f6d31645791b9ec787"
+    },
+    {
+      "file": "jacob-bentzinger-x6UpJG0_MhA-unsplash.jpg",
+      "bytes": 289692,
+      "sha256": "7930bed933f734c4780a5f77871d174878525f54b2b44f7e809eed2e4dfb578a"
+    },
+    {
+      "file": "jacob-bentzinger1.jpg",
+      "bytes": 240463,
+      "sha256": "f76801d919445588b72952132f9af16dc7d73632ebb468411fa14d238eaeda77"
+    },
+    {
+      "file": "jan-cornelisz-vermeyen-la-santisima-trinidad.jpg",
+      "bytes": 182707,
+      "sha256": "ae98fa2eefb6aedf7975a4e7c1d7ef550c1054a514c728bd58fee28cac63cf8e"
+    },
+    {
+      "file": "jen-vazquez-YRRXZF_j964-unsplash.jpg",
+      "bytes": 226517,
+      "sha256": "37ee64e45c76eb0cb1e6fa60765809f9e496ac5f4460a2ec3f4a31eb50289d85"
+    },
+    {
+      "file": "jesus-and-peter-on-the-water-by-gustave-brion.jpg",
+      "bytes": 126367,
+      "sha256": "7d7faef37073fffe9c302e4eaa28f976d77d2b936d1f6df374496aff8e4c4f0c"
+    },
+    {
+      "file": "lapaz.jpg",
+      "bytes": 223366,
+      "sha256": "4763239a213290667da57cfc3218417fcb236150b9e316c986830489469ec197"
+    },
+    {
+      "file": "leccionario2.jpg",
+      "bytes": 128355,
+      "sha256": "2261030bfc9ba9e78bf3912fafb843fa4e91af26b13612cf05c53742c9a7d72d"
+    },
+    {
+      "file": "lh-cierre-3.png",
+      "bytes": 444574,
+      "sha256": "2bbc4b13afc95b4d1eb2064bdec2dc6ce5b0e9dfc8a58bc8551a0c059bc9cef9"
+    },
+    {
+      "file": "lh-cierre-4.png",
+      "bytes": 486067,
+      "sha256": "185d403b28d457f69edc6aabb822d47d56a7921dce78cea15dc2d24cfcda2880"
+    },
+    {
+      "file": "lh-completas.jpg",
+      "bytes": 298281,
+      "sha256": "af260c6fd8363e2d7980a8b02743fe4af4f405cbed846dc765fd2711df42053a"
+    },
+    {
+      "file": "lh-visperas.jpg",
+      "bytes": 300216,
+      "sha256": "7299b8bacd9a1e8fbaf318c7677bace441c63656a096b67a51bba3db96e20585"
+    },
+    {
+      "file": "manutergio-2.jpg",
+      "bytes": 13775,
+      "sha256": "acf220b06bbbcbdaefc67ae5ca635cef11ea5da3fded9d41b69a01f158b1fc36"
+    },
+    {
+      "file": "memorias1.png",
+      "bytes": 14448,
+      "sha256": "a603f792d7c8620e5723f17fbc55ab93182db4e97447a6bc4a57fbe3e4d14fb3"
+    },
+    {
+      "file": "misalromano2.jpg",
+      "bytes": 163321,
+      "sha256": "737675b48740b673a838ea4610c460efdd2d09068bea520f566d7880d7b9a453"
+    },
+    {
+      "file": "nelson-ndongala-3vcuh-o4f4i-unsplash.webp",
+      "bytes": 305508,
+      "sha256": "32d0bacfc7c5aab64dfa2e17b29394cf65ae998e004b53446c252fe6b3ec6f15"
+    },
+    {
+      "file": "nikhil-mitra-wi4taofcw6i-unsplash-1.webp",
+      "bytes": 303222,
+      "sha256": "22eed8e1cfa7ff1288c1b93b50b1ca39b6ed76964185ae6ddf10f62da9d2228c"
+    },
+    {
+      "file": "notificaciones.jpeg",
+      "bytes": 81692,
+      "sha256": "a42c41914a3cbcd982014ab0da6c271cac5616f3efbc924047f68ce96487b26a"
+    },
+    {
+      "file": "palia-2.jpg",
+      "bytes": 60295,
+      "sha256": "23300d9168ed989a639f24f7b3ab45c15a13743babaa6cce17227321452231c2"
+    },
+    {
+      "file": "panos-altar.jpg",
+      "bytes": 46535,
+      "sha256": "9bf4c6a2682d7203d2874bebcd878aa6f20bc25e50b6e0e328c32c9900a05013"
+    },
+    {
+      "file": "participacionizq.jpg",
+      "bytes": 68227,
+      "sha256": "2a8e7c91757697c49b0590b830b133bca638a30318b8ca85497c2e6137d65beb"
+    },
+    {
+      "file": "paso-a-paso-gran-amen.jpg",
+      "bytes": 177576,
+      "sha256": "41c70c917f36f5929e60f43bf18edfc2800aacd77d14ef0520e9d5a401f8a3b0"
+    },
+    {
+      "file": "paso-a-paso-monitor.jpg",
+      "bytes": 143044,
+      "sha256": "9cbce7ed5b498d4515f93ecf9570131379305f5b18783e13a3ab2e89a792b845"
+    },
+    {
+      "file": "patena-2.jpg",
+      "bytes": 20147,
+      "sha256": "342e54f69f8b9380ad222dbcaafe5c41ec356a80ab03493af07adc8605e838fb"
+    },
+    {
+      "file": "pixide-2.jpg",
+      "bytes": 59301,
+      "sha256": "18121ff39a24f5204e8cd7354ccb599658f93cfe32448a595f384708d713e7a0"
+    },
+    {
+      "file": "purificador-2.jpg",
+      "bytes": 9648,
+      "sha256": "adc66fa4adb794c5209cfba4924056a7628b749405855fb63602fc5c64e62b57"
+    },
+    {
+      "file": "reverencia.jpg",
+      "bytes": 94904,
+      "sha256": "4d0add4bebbeeb77357c2cbf8cf822d9bf0607e7b2b5f11f2e2b7537a2b284a9"
+    },
+    {
+      "file": "saint-augustine-by-philippe-de-champaigne.jpg",
+      "bytes": 305839,
+      "sha256": "abe718a550945b4ed591088b5857653cdf24e54011950c87f7285f8c68bf4bb9"
+    },
+    {
+      "file": "san-sisto-madonna-4ff8ba67c18ee.jpg",
+      "bytes": 113812,
+      "sha256": "4c901d2242308eadeb51c81b9c88bac384d7859649536ee9f24453558cba2ffa"
+    },
+    {
+      "file": "santiguarse.jpg",
+      "bytes": 202316,
+      "sha256": "913f5e593534002a7d89ab87dae24778aeef33f1fde222a5a75f6d34309d308a"
+    },
+    {
+      "file": "share-10.jpg",
+      "bytes": 112369,
+      "sha256": "4bd98b98137135c5dabd485b4e0ef3008b39706a14311036743f989c2286f7ec"
+    },
+    {
+      "file": "shutterstock-1651037905.jpg",
+      "bytes": 228798,
+      "sha256": "d8aa74691a919b1adc5b8597166fce3cd592f8d52575708f03e87ece2da996da"
+    },
+    {
+      "file": "signarse.jpg",
+      "bytes": 162436,
+      "sha256": "ed171ed24ea03e936160fe7c667ff8d8feab30a7fc2ddc82885c25fb0b00d624"
+    },
+    {
+      "file": "solemnidades1.png",
+      "bytes": 12982,
+      "sha256": "46c0e95d69d295dd187ac1e97213c05e0f1c85cf3f19ec1e854c1c5064358391"
+    },
+    {
+      "file": "st-patricks-cathedral-ny1.webp",
+      "bytes": 104806,
+      "sha256": "8543720425cbdcada66de3e243db8b752754601c39f217d7e4063085c8a972bd"
+    },
+    {
+      "file": "st-paul-in-prison-Gustave-Dore.jpg",
+      "bytes": 261771,
+      "sha256": "81f6e4c8a11d28a6f7c126dd57560a333b0ecb8fd084a53895f4de839587150b"
+    },
+    {
+      "file": "ultima-cena-juan-de-juanes.jpg",
+      "bytes": 171174,
+      "sha256": "1a43faa0c93fa53b8505123c28d5a671d53e85ad8f0a8dbf254be4533247ee88"
+    },
+    {
+      "file": "vasos-sagrados.jpg",
+      "bytes": 127464,
+      "sha256": "0b6cde22e6f57dc1e88540c3ad370533a81ab71f91e75f73de114a85b1ced5a4"
+    },
+    {
+      "file": "vest_azul.jpeg",
+      "bytes": 62667,
+      "sha256": "da4b2f17663328a1703d3991937a2e895655d41e71349fbc7559bdcc411fb88e"
+    },
+    {
+      "file": "vest_blanco.jpeg",
+      "bytes": 53530,
+      "sha256": "cd741074b4661a91100dec486f84e1134cf79db1a7e1fd7ec1582260e948b475"
+    },
+    {
+      "file": "vest_morado.jpeg",
+      "bytes": 68112,
+      "sha256": "aeb82b8dd274de75fad807d3f1a06264b139479144676abf11973e4a50bbc8fb"
+    },
+    {
+      "file": "vest_negro.jpeg",
+      "bytes": 68912,
+      "sha256": "8a75f72752745dc159a93686b68712f6ccab71dfb4ce7567727cb8926c48858d"
+    },
+    {
+      "file": "vest_rojo.jpeg",
+      "bytes": 66920,
+      "sha256": "6b55b22e0c7c1516513585f232aa17bf933cb7fff01f96f54359809bdf01ac27"
+    },
+    {
+      "file": "vest_rosado.jpeg",
+      "bytes": 62816,
+      "sha256": "405541f68685872f023964bf256cddabb24a3cdffa3916f6fecdf668ab6cc285"
+    },
+    {
+      "file": "vest_verde.jpeg",
+      "bytes": 68620,
+      "sha256": "cc7a1abe4c7fed40750683db3d559b1b9430ab2cc8e7ecbbae9df4413f8e7840"
+    },
+    {
+      "file": "vinajeras.jpg",
+      "bytes": 214822,
+      "sha256": "b93bd505d456cb903f53ef9d91693fc22d97392e70bd946b54418ce6c6fe91ec"
+    },
+    {
+      "file": "vinoyagua.jpg",
+      "bytes": 97035,
+      "sha256": "fc83b7187fda63f5e51e019a1878b3356b1f2d456c8b621120cb2cc25476404f"
+    },
+    {
+      "file": "virgen-guadalupe.jpeg",
+      "bytes": 165206,
+      "sha256": "2adefea314977051f374f19f3c531c21b5e1ffc71143c3260319737920285c67"
+    },
+    {
+      "file": "virgen-humildad-fra-angelico.jpg",
+      "bytes": 304873,
+      "sha256": "1a97414f2e4e03e2d24deab95cf3cae0d17e5e5d2aba64e10a284f961cc27e53"
+    },
+    {
+      "file": "widget-especial-apentecostes.jpg",
+      "bytes": 152824,
+      "sha256": "d2921705ed8f178098894b56920803e642acc95773a51dd28768ee7b5ef4318c"
+    },
+    {
+      "file": "widget_i.jpeg",
+      "bytes": 116095,
+      "sha256": "26ebacafb1b3e02322802d1e9e5d7e97501b94f4391e58006d92bed601ecc29d"
+    }
+  ],
+  "dataFiles": [
+    {
+      "file": "homilies.json",
+      "bytes": 17761720,
+      "sha256": "2c36571edbfba19ac84cf2c147c6eb9064636f9a659321430c327470f2308c9c"
+    },
+    {
+      "file": "santoral_sanctus.json",
+      "bytes": 838921,
+      "sha256": "ae0750d62676da7b31faef3a1c9e9151e27dd037808579e773d4c4bbc673f9a5"
+    },
+    {
+      "file": "liturgiaplus_biografias.json",
+      "bytes": 3100900,
+      "sha256": "f7248bd524196bddff971e81c29a6b8d9d11694e4cb143d51830a8faf0354f41"
+    },
+    {
+      "file": "santoral_rico.json",
+      "bytes": 204207,
+      "sha256": "32f77c51553edcf6d8025591d1e52055cb6d373f30547144d2afa9389d99801b"
+    },
+    {
+      "file": "readings-latam.json",
+      "bytes": 1408182,
+      "sha256": "0c4d280378b5e1ac06423a9ee4ed76b92e327f9db8014db9e3c0e1f9d4812d6b"
+    },
+    {
+      "file": "hours-patch.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "file": "readings-patch.json",
+      "bytes": 1312785,
+      "sha256": "2abef83711b50d63f79ba80591891a1a5d3a9167a1b020f24897d6add6724ae4"
+    }
+  ],
+  "media": [
+    {
+      "file": "hauntsync-gregorian-chant-private-prayer-to-mary-337672.mp3",
+      "bytes": 8273664,
+      "sha256": "c933e1afd18f53b14651ec2ba6b7f4c089a7299d2cd8eb38868bc3136181d2a4"
+    },
+    {
+      "file": "sigmamusicart-football-football-music-551346.mp3",
+      "bytes": 1891584,
+      "sha256": "6d726554fe438d8b30955b8fd431015aa5564ccc1a9c391e8a5ae31a4fdc075c"
+    }
+  ]
+}

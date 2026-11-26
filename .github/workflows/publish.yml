@@ -1,0 +1,87 @@
+name: Publicar Release del contenido editorial
+
+# Publica un Release nuevo (que "latest" tomará) cada vez que cambia el
+# contenido editorial. NO genera el bundle: eso se hace local con
+# publish-content.mjs (repo SWIFT, carpeta migracion/), que no va en CI
+# (necesita el content_bundle.json y las imágenes fuente del proyecto de la
+# app, que no viven en este repo). El flujo es:
+#   local: node migracion/publish-content.mjs
+#          -> copia content-manifest.json + content_bundle.json + imágenes
+#             nuevas/cambiadas a este repo -> git push
+#   aquí:  este Action arma el Release con esos archivos como assets.
+#
+# También se puede disparar a mano desde la pestaña Actions (workflow_dispatch).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      # Globs: cubren el es (content-manifest.json) y los manifests/bundles
+      # por idioma (content-manifest.en.json, content_bundle.en.json, ...)
+      - "content-manifest*.json"
+      - "content_bundle*.json"
+      - homilies.json
+      - santoral_sanctus.json
+      - liturgiaplus_biografias.json
+      - santoral_rico.json
+      - hours-patch.json
+      - readings-patch.json
+      # Overlay LatAm (7º dataFile, 2026-10-21). En `gh release create` va como
+      # glob: con nullglob desaparece mientras el archivo no exista en el repo.
+      - readings-latam.json
+      # Santoral por id (8º dataFile). Se publica con el build 2.2
+      # (SWIFT/SANTORAL_POR_ID_ETAPA8_PLAN.md). En `gh release create` va como
+      # `santoral.jso[n]`: un glob que nullglob quita mientras el archivo no
+      # exista en el repo (no `santoral*.json`, que repetiría los otros dos).
+      - santoral.json
+      - "*.jpg"
+      - "*.jpeg"
+      - "*.png"
+      - "*.webp"
+      # Canal de media (audio/video) -- mismas extensiones que MEDIA_EXT_RE
+      # en migracion/publish-content.mjs; mantener en sintonía.
+      - "*.mp3"
+      - "*.m4a"
+      - "*.wav"
+      - "*.aac"
+      - "*.mp4"
+      - "*.mov"
+      - "*.m4v"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer contentVersion del manifest
+        id: meta
+        run: echo "version=$(jq -r .contentVersion content-manifest.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Crear Release con el bundle + imágenes + manifest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          TAG="v${{ steps.meta.outputs.version }}-b${{ github.run_number }}"
+          echo "Publicando $TAG"
+          shopt -s nullglob
+          gh release create "$TAG" \
+            content-manifest*.json content_bundle*.json \
+            homilies.json santoral_sanctus.json liturgiaplus_biografias.json \
+            santoral_rico.json \
+            hours-patch.json readings-patch.json \
+            readings-latam*.json \
+            santoral.jso[n] \
+            *.jpg *.jpeg *.png *.webp \
+            *.mp3 *.m4a *.wav *.aac *.mp4 *.mov *.m4v \
+            --title "Contenido v${{ steps.meta.outputs.version }} (build ${{ github.run_number }})" \
+            --notes "Publicado automáticamente al actualizar el contenido editorial. 'latest' apunta aquí."

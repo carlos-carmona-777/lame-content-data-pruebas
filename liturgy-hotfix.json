@@ -1,0 +1,134 @@
+{
+  "version": 18,
+  "days": {
+    "2029-05-10": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "easter_time_6_thursday",
+              "cycle": "ANY",
+              "lecturas": [
+                {
+                  "ref": "Hch 16, 22-34: _Cree en el Señor Jesús y te salvarás tú y tu familia._",
+                  "texto": "En aquellos días, la plebe de Filipos se amotinó contra Pablo y Silas, y los magistrados ordenaron que les arrancaran los vestidos y que los azotaran con varas; después de molerlos a palos, los metieron en la cárcel, encargando al carcelero que los vigilara bien; según la orden recibida, él los cogió, los metió en la mazmorra y les sujetó los pies en el cepo.\n\nA eso de media noche, Pablo y Silas oraban cantando himnos a Dios. Los presos los escuchaban. De repente, vino un terremoto tan violento que temblaron los cimientos de la cárcel. Al momento se abrieron todas las puertas, y a todos se les soltaron las cadenas. El carcelero se despertó y, al ver las puertas de la cárcel de par en par, sacó la espada para suicidarse, imaginando que los presos se habían fugado. Pero Pablo lo llamó a gritos, diciendo: «No te hagas daño alguno, que estamos todos aquí». \n\nEl carcelero pidió una lámpara, saltó dentro, y se echó temblando a los pies de Pablo y Silas; los sacó fuera y les preguntó: «Señores, ¿qué tengo que hacer para salvarme?». \n\nLe contestaron: «Cree en el Señor Jesús y te salvarás tú y tu familia». \n\nY le explicaron la palabra del Señor, a él y a todos los de su casa.\n\nA aquellas horas de la noche, el carcelero los tomó consigo, les lavó las heridas, y se bautizó enseguida con todos los suyos; los subió a su casa, les preparó la mesa, y celebraron una fiesta de familia por haber creído en Dios.\n",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Jn 16, 5-11: _Si no me voy, no vendrá a vosotros el Paráclito._",
+                  "texto": "En aquel tiempo, dijo Jesús a sus discípulos: \n\n«Ahora me voy al que me envió, y ninguno de vosotros me pregunta: \"¿Adónde vas?\". Sino que, por haberos dicho esto, la tristeza os ha llenado el corazón. Sin embargo, os digo la verdad: os conviene que yo me vaya; porque si no me voy, no vendrá a vosotros el Paráclito. En cambio, si me voy, os lo enviaré. \n\nY cuando venga, dejará convicto al mundo acerca de un pecado, de una justicia y de una condena. De un pecado, porque no creen en mí; de una justicia, porque me voy al Padre, y no me veréis; de una condena, porque el príncipe de este mundo está condenado».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 137, 1-3.7c-8: _Tu derecha me salva, Señor._",
+                  "texto": "Te doy gracias, Señor, de todo corazón, \nporque escuchaste las palabras de mi boca; \ndelante de los ángeles tañeré para ti;\nme postraré hacia tu santuario. R.\n\nDaré gracias a tu nombre: \npor tu misericordia y tu lealtad,\nporque tu promesa supera tu fama.\nCuando te invoqué, me escuchaste, \nacreciste el valor en mi alma. R.\n\nTu derecha me salva.\nEl Señor completará sus favores conmigo. \nSeñor, tu misericordia es eterna, \nno abandones la obra de tus manos. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "easter_time_6_thursday",
+            "cycle": "ANY",
+            "evangelium_lectiones": [
+              {
+                "ref": "Jn 16, 5-11: _Si no me voy, no vendrá a vosotros el Paráclito._",
+                "texto": "En aquel tiempo, dijo Jesús a sus discípulos: \n\n«Ahora me voy al que me envió, y ninguno de vosotros me pregunta: \"¿Adónde vas?\". Sino que, por haberos dicho esto, la tristeza os ha llenado el corazón. Sin embargo, os digo la verdad: os conviene que yo me vaya; porque si no me voy, no vendrá a vosotros el Paráclito. En cambio, si me voy, os lo enviaré. \n\nY cuando venga, dejará convicto al mundo acerca de un pecado, de una justicia y de una condena. De un pecado, porque no creen en mí; de una justicia, porque me voy al Padre, y no me veréis; de una condena, porque el príncipe de este mundo está condenado».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2027-08-26": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_21_thursday",
+              "cycle": "ODD",
+              "lecturas": [
+                {
+                  "ref": "1 Ts 3, 7-13: _Que el Señor os haga rebosar de amor mutuo y de amor a todos._",
+                  "texto": "Hermanos: En medio de todos nuestros aprietos y luchas, vosotros con vuestra fe nos animáis; ahora respiramos, sabiendo que os mantenéis fieles al Señor.\n\n¿Cómo podremos agradecérselo bastante a Dios?\n\n¡Tanta alegría como gozamos delante de Dios cuando pedimos día y noche veros cara a cara y remediar las deficiencias de vuestra fe!\n\nQue Dios nuestro Padre y nuestro Señor Jesús nos allanen el camino para ir a veros.\n\nQue el Señor os colme y os haga rebosar de amor mutuo y de amor a todos, lo mismo que nosotros os amamos. Y que así os fortalezca internamente; para que cuando Jesús nuestro Señor vuelva acompañado de sus santos, os presentéis santos e irreprensibles ante Dios nuestro Padre.",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mt 24, 42-51: _Estad preparados._",
+                  "texto": "En aquel tiempo, dijo Jesús a sus discípulos:\n\n«Estad en vela, porque no sabéis qué día vendrá vuestro Señor.\n\nComprended que si supiera el dueño de casa a qué hora de la noche viene el ladrón, estaría en vela y no dejaría que abrieran un boquete en su casa.\n\nPor eso, estad también vosotros preparados, porque a la hora que menos penséis viene el Hijo del hombre.\n\n¿Quién es el criado fiel y prudente, a quien el señor encarga de dar a la servidumbre la comida a sus horas?\n\nBienaventurado ese criado, si el señor, al llegar, lo encuentra portándose así. En verdad os digo que le confiará la administración de todos sus bienes.\n\nPero si dijere aquel mal siervo para sus adentros: \"Mi señor tarda en llegar\", y empieza a pegar a sus compañeros, y a comer y a beber con los borrachos, el día y la hora que menos se lo espera, llegará el amo y lo castigará con rigor y le hará compartir la suerte de los hipócritas.\n\nAllí será el llanto y el rechinar de dientes».\n",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 89, 3-4.12-14.17: _Sácianos de tu misericordia, Señor, y estaremos alegres._",
+                  "texto": "Tú reduces al hombre a polvo,\ndiciendo: «Retornad, hijos de Adán».\nMil años en tu presencia son un ayer,\nSon un ayer que pasó,\nuna vela nocturna. R.\n\nEnséñanos a calcular nuestros años,\npara que adquiramos un corazón sensato.\nVuélvete, Señor, ¿hasta cuándo?\nTen compasión de tus siervos. R.\n\nPor la mañana sácianos de tu misericordia,\ny toda nuestra vida será alegría y júbilo.\nBaje a nosotros la bondad del Señor\ny haga prósperas las obras de nuestras manos. R.",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_21_thursday",
+            "cycle": "ODD",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mt 24, 42-51: _Estad preparados._",
+                "texto": "En aquel tiempo, dijo Jesús a sus discípulos:\n\n«Estad en vela, porque no sabéis qué día vendrá vuestro Señor.\n\nComprended que si supiera el dueño de casa a qué hora de la noche viene el ladrón, estaría en vela y no dejaría que abrieran un boquete en su casa.\n\nPor eso, estad también vosotros preparados, porque a la hora que menos penséis viene el Hijo del hombre.\n\n¿Quién es el criado fiel y prudente, a quien el señor encarga de dar a la servidumbre la comida a sus horas?\n\nBienaventurado ese criado, si el señor, al llegar, lo encuentra portándose así. En verdad os digo que le confiará la administración de todos sus bienes.\n\nPero si dijere aquel mal siervo para sus adentros: \"Mi señor tarda en llegar\", y empieza a pegar a sus compañeros, y a comer y a beber con los borrachos, el día y la hora que menos se lo espera, llegará el amo y lo castigará con rigor y le hará compartir la suerte de los hipócritas.\n\nAllí será el llanto y el rechinar de dientes».\n",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "2028-08-26": [
+      {
+        "countries": [
+          "es"
+        ],
+        "readings": {
+          "lectures": [
+            {
+              "id": "ordinary_time_20_saturday",
+              "cycle": "EVEN",
+              "lecturas": [
+                {
+                  "ref": "Ez 43, 1-7: _La gloria del Señor entró en el templo._",
+                  "texto": "En aquellos días, el ángel me condujo a la puerta oriental: vi la gloria del Dios de Israel que venía de oriente, con estruendo de aguas caudalosas: la tierra reflejó su gloria.\n\nLa visión que tuve era como la visión que había contemplado cuando vino a destruir la ciudad, como la visión que había contemplado a orillas del río Quebar. Y caí rostro en tierra. La gloria del Señor entró en el templo por la puerta oriental. Entonces me arrebató el espíritu y me llevó al atrio interior. La Gloria del Señor llenaba el templo.\n\nEntonces oí a uno que me hablaba desde el templo el hombre seguía a mi lado, y me decía: «Hijo de Adán, éste es el sitio de mi trono, el sitio de las plantas de mis pies, donde voy a residir para siempre en medio de los hijos de Israel».",
+                  "type": "FIRSTLECTURE"
+                },
+                {
+                  "ref": "Mt 23, 1-12: _No hacen lo que dicen._",
+                  "texto": "En aquel tiempo, Jesús habló a la gente y a los discípulos, diciendo:\n\n«En la cátedra de Moisés se han sentado los escribas y los fariseos: haced y cumplid todo lo que os digan; pero no hagáis lo que ellos hacen, porque ellos dicen, pero no hacen. Lían fardos pesados y se los cargan a la gente en los hombros, pero ellos no están dispuestos a mover un dedo para empujar. Todo lo que hacen es para que los vea la gente: alargan las filacterias y agrandan las orlas del manto; les gustan los primeros puestos en los banquetes y los asientos de honor en las sinagogas; que les hagan reverencias en las plazas y que la gente los llame \"rabbí\".\n\nVosotros, en cambio, no os dejéis llamar \"rabbí\", porque uno solo es vuestro maestro y todos vosotros sois hermanos.\n\nY no llaméis padre vuestro a nadie en la tierra, porque uno solo es vuestro Padre, el del cielo. No os dejéis llamar maestros, porque uno solo es vuestro maestro, el Mesías.\n\nEl primero entre vosotros será vuestro servidor. El que se enaltece será humillado, y el que se humilla será enaltecido».",
+                  "type": "GOSPEL"
+                },
+                {
+                  "ref": "Sal 84, 9-14: _La gloria del Señor habitará en nuestra tierra._",
+                  "texto": "Voy a escuchar lo que dice el Señor:\n«Dios anuncia la paz\na su pueblo y a sus amigos».\nLa salvación está cerca de los que lo temen,\ny la gloria habitará en nuestra tierra. R.\n\nLa misericordia y la fidelidad se encuentran,\nla justicia y la paz se besan;\nla fidelidad brota de la tierra,\ny la justicia mira desde el cielo. R.\n\nEl Señor nos dará la lluvia,\ny nuestra tierra dará su fruto.\nLa justicia marchará ante él,\ny sus pasos señalarán el camino. R.\n",
+                  "type": "PSALM"
+                }
+              ]
+            }
+          ],
+          "evangelium": {
+            "id": "ordinary_time_20_saturday",
+            "cycle": "EVEN",
+            "evangelium_lectiones": [
+              {
+                "ref": "Mt 23, 1-12: _No hacen lo que dicen._",
+                "texto": "En aquel tiempo, Jesús habló a la gente y a los discípulos, diciendo:\n\n«En la cátedra de Moisés se han sentado los escribas y los fariseos: haced y cumplid todo lo que os digan; pero no hagáis lo que ellos hacen, porque ellos dicen, pero no hacen. Lían fardos pesados y se los cargan a la gente en los hombros, pero ellos no están dispuestos a mover un dedo para empujar. Todo lo que hacen es para que los vea la gente: alargan las filacterias y agrandan las orlas del manto; les gustan los primeros puestos en los banquetes y los asientos de honor en las sinagogas; que les hagan reverencias en las plazas y que la gente los llame \"rabbí\".\n\nVosotros, en cambio, no os dejéis llamar \"rabbí\", porque uno solo es vuestro maestro y todos vosotros sois hermanos.\n\nY no llaméis padre vuestro a nadie en la tierra, porque uno solo es vuestro Padre, el del cielo. No os dejéis llamar maestros, porque uno solo es vuestro maestro, el Mesías.\n\nEl primero entre vosotros será vuestro servidor. El que se enaltece será humillado, y el que se humilla será enaltecido».",
+                "type": "GOSPEL"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
