@@ -3,6 +3,7 @@
     "santos": [
       {
         "name": "Santa María, Madre de Dios, virgen",
+        "santoId": "sanctus_0101_santa_maria_madre_de_dios_virgen",
         "edicionCC": true,
         "content": []
       }
@@ -12,6 +13,7 @@
     "santos": [
       {
         "name": "San Basilio Magno",
+        "santoId": "basil_the_great_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -21,6 +23,7 @@
     "santos": [
       {
         "name": "Epifanía del Señor",
+        "celebracionId": "epiphany_of_the_lord",
         "edicionCC": true,
         "content": []
       }
@@ -30,6 +33,7 @@
     "santos": [
       {
         "name": "San Hilario de Poitiers",
+        "santoId": "hilary_of_poitiers_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -39,6 +43,7 @@
     "santos": [
       {
         "name": "San Antonio Abad",
+        "santoId": "anthony_of_egypt_abbot",
         "edicionCC": true,
         "content": [
           {
@@ -209,6 +214,7 @@
     "santos": [
       {
         "name": "San Sebastián",
+        "santoId": "sebastian_of_milan_martyr",
         "edicionCC": true,
         "content": [
           {
@@ -269,6 +275,7 @@
     "santos": [
       {
         "name": "Santa Inés",
+        "santoId": "agnes_of_rome_virgin",
         "edicionCC": true,
         "content": []
       }
@@ -278,6 +285,7 @@
     "santos": [
       {
         "name": "San Francisco de Sales",
+        "santoId": "francis_de_sales_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -287,6 +295,7 @@
     "santos": [
       {
         "name": "San Pablo en su conversión",
+        "santoId": "conversion_of_saint_paul_the_apostle",
         "edicionCC": true,
         "content": []
       }
@@ -296,6 +305,7 @@
     "santos": [
       {
         "name": "Santo Tomás de Aquino",
+        "santoId": "thomas_aquinas_priest",
         "edicionCC": true,
         "content": []
       }
@@ -305,6 +315,7 @@
     "santos": [
       {
         "name": "San Juan Bosco",
+        "santoId": "john_bosco_priest",
         "edicionCC": true,
         "content": []
       }
@@ -314,6 +325,7 @@
     "santos": [
       {
         "name": "San Blas",
+        "santoId": "blaise_of_sebaste_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -323,6 +335,7 @@
     "santos": [
       {
         "name": "San Felipe de Jesús",
+        "santoId": "philip_of_jesus_de_las_casas_martyr",
         "edicionCC": true,
         "content": [
           {
@@ -388,6 +401,7 @@
     "santos": [
       {
         "name": "Santa Josefina Bakhita",
+        "santoId": "josephine_bakhita_virgin",
         "edicionCC": true,
         "content": [
           {
@@ -449,6 +463,7 @@
     "santos": [
       {
         "name": "Bienaventurada Virgen María de Lourdes",
+        "santoId": "our_lady_of_lourdes",
         "edicionCC": true,
         "content": []
       }
@@ -458,6 +473,7 @@
     "santos": [
       {
         "name": "San Valentín",
+        "santoId": "sanctus_0214_san_valentin",
         "edicionCC": true,
         "content": [
           {
@@ -513,6 +529,7 @@
     "santos": [
       {
         "name": "Cátedra de San Pedro, apóstol",
+        "santoId": "chair_of_saint_peter_the_apostle",
         "edicionCC": true,
         "content": [
           {
@@ -569,6 +586,7 @@
     "santos": [
       {
         "name": "San Policarpo",
+        "santoId": "polycarp_of_smyrna_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -578,6 +596,7 @@
     "santos": [
       {
         "name": "Santas Felicidad y Perpetua",
+        "santoId": "sanctus_0307_santas_felicidad_y_perpetua",
         "edicionCC": true,
         "content": []
       }
@@ -587,6 +606,7 @@
     "santos": [
       {
         "name": "San Juan de Dios",
+        "santoId": "john_of_god_duarte_cidade_religious",
         "edicionCC": true,
         "content": []
       }
@@ -596,6 +616,7 @@
     "santos": [
       {
         "name": "San Patricio",
+        "santoId": "patrick_of_ireland_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -605,6 +626,7 @@
     "santos": [
       {
         "name": "San José",
+        "santoId": "joseph_spouse_of_mary",
         "edicionCC": true,
         "content": []
       }
@@ -614,6 +636,7 @@
     "santos": [
       {
         "name": "Santo Toribio de Mogrovejo",
+        "santoId": "turibius_of_mogrovejo_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -623,6 +646,7 @@
     "santos": [
       {
         "name": "Solemnidad de la Anunciación o Encarnación del Señor",
+        "santoId": "annunciation_of_the_lord",
         "edicionCC": true,
         "content": []
       }
@@ -632,6 +656,7 @@
     "santos": [
       {
         "name": "San Isidoro de Sevilla",
+        "santoId": "isidore_of_seville_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -641,6 +666,7 @@
     "santos": [
       {
         "name": "San Vicente Ferrer",
+        "santoId": "vincent_ferrer_priest",
         "edicionCC": true,
         "content": []
       }
@@ -650,6 +676,7 @@
     "santos": [
       {
         "name": "San Juan Bautista de la Salle",
+        "santoId": "john_baptist_de_la_salle_priest",
         "edicionCC": true,
         "content": []
       }
@@ -659,6 +686,7 @@
     "santos": [
       {
         "name": "Santa Gemma Galgani",
+        "santoId": "sanctus_0411_santa_gemma_galgani",
         "edicionCC": true,
         "content": [
           {
@@ -718,6 +746,7 @@
     "santos": [
       {
         "name": "San Martín I papa",
+        "santoId": "martin_i_pope",
         "edicionCC": true,
         "content": []
       }
@@ -727,6 +756,7 @@
     "santos": [
       {
         "name": "Santa Bernardita Soubirous",
+        "santoId": "sanctus_0416_santa_bernardita_soubirous",
         "edicionCC": true,
         "content": []
       }
@@ -736,6 +766,7 @@
     "santos": [
       {
         "name": "San Anselmo de Canterbury",
+        "santoId": "anselm_of_canterbury_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -745,6 +776,7 @@
     "santos": [
       {
         "name": "San Jorge",
+        "santoId": "george_of_lydda_martyr",
         "edicionCC": true,
         "content": []
       }
@@ -754,6 +786,7 @@
     "santos": [
       {
         "name": "San Marcos evangelista",
+        "santoId": "mark_evangelist",
         "edicionCC": true,
         "content": []
       }
@@ -763,6 +796,7 @@
     "santos": [
       {
         "name": "Santa María Guadalupe García Zavala",
+        "santoId": "maria_guadalupe_garcia_zavala_virgin",
         "edicionCC": true,
         "content": [
           {
@@ -823,6 +857,7 @@
     "santos": [
       {
         "name": "San Luis María Grignon de Montfort",
+        "santoId": "louis_grignion_de_montfort_priest",
         "edicionCC": true,
         "content": [
           {
@@ -882,6 +917,7 @@
     "santos": [
       {
         "name": "Santa Catalina de Siena",
+        "santoId": "catherine_of_siena_virgin",
         "edicionCC": true,
         "content": []
       }
@@ -891,6 +927,7 @@
     "santos": [
       {
         "name": "San José Obrero",
+        "santoId": "joseph_the_worker",
         "edicionCC": true,
         "content": []
       }
@@ -900,6 +937,7 @@
     "santos": [
       {
         "name": "San Atanasio",
+        "santoId": "athanasius_of_alexandria_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -909,6 +947,7 @@
     "santos": [
       {
         "name": "San Felipe apóstol",
+        "santoId": "philip_apostle",
         "edicionCC": true,
         "content": []
       }
@@ -918,6 +957,7 @@
     "santos": [
       {
         "name": "Santo Domingo Savio",
+        "santoId": "sanctus_0506_santo_domingo_savio",
         "edicionCC": true,
         "content": [
           {
@@ -987,6 +1027,7 @@
       },
       {
         "name": "Ascensión del Señor",
+        "celebracionId": "ascension_of_the_lord",
         "edicionCC": true,
         "content": []
       }
@@ -996,6 +1037,7 @@
     "santos": [
       {
         "name": "San Isaías profeta",
+        "santoId": "sanctus_0509_san_isaias_profeta",
         "edicionCC": true,
         "content": [
           {
@@ -1055,6 +1097,7 @@
     "santos": [
       {
         "name": "San Damián de Molokai",
+        "santoId": "damien_de_veuster_priest",
         "edicionCC": true,
         "content": [
           {
@@ -1102,6 +1145,7 @@
     "santos": [
       {
         "name": "Bienaventurada Virgen María de Fátima",
+        "santoId": "our_lady_of_fatima",
         "edicionCC": true,
         "content": []
       }
@@ -1111,6 +1155,7 @@
     "santos": [
       {
         "name": "San Isidro Labrador",
+        "santoId": "isidore_the_farmer",
         "edicionCC": true,
         "content": []
       }
@@ -1120,6 +1165,7 @@
     "santos": [
       {
         "name": "San Simón Stock",
+        "santoId": "sanctus_0516_san_simon_stock",
         "edicionCC": true,
         "content": [
           {
@@ -1172,6 +1218,7 @@
       },
       {
         "name": "Pentecostés",
+        "celebracionId": "pentecost_sunday",
         "edicionCC": true,
         "content": []
       }
@@ -1181,11 +1228,13 @@
     "santos": [
       {
         "name": "San Pascual Bailón",
+        "santoId": "paschal_baylon_religious",
         "edicionCC": true,
         "content": []
       },
       {
         "name": "María, Madre de la Iglesia",
+        "celebracionId": "mary_mother_of_the_church",
         "edicionCC": true,
         "content": []
       }
@@ -1195,6 +1244,7 @@
     "santos": [
       {
         "name": "Jesucristo, Sumo y Eterno Sacerdote",
+        "celebracionId": "our_lord_jesus_christ_the_eternal_high_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1204,6 +1254,7 @@
     "santos": [
       {
         "name": "San Cristóbal Magallanes y compañeros",
+        "santoId": "christopher_magallanes_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1213,6 +1264,7 @@
     "santos": [
       {
         "name": "Santa Rita de Casia",
+        "santoId": "rita_of_cascia_religious",
         "edicionCC": true,
         "content": []
       }
@@ -1222,6 +1274,7 @@
     "santos": [
       {
         "name": "Domingo de la Santísima Trinidad",
+        "celebracionId": "most_holy_trinity",
         "edicionCC": true,
         "content": []
       }
@@ -1231,6 +1284,7 @@
     "santos": [
       {
         "name": "María Auxiliadora",
+        "santoId": "our_lady_help_of_christians",
         "edicionCC": true,
         "content": [
           {
@@ -1291,6 +1345,7 @@
     "santos": [
       {
         "name": "San Beda el Venerable",
+        "santoId": "bede_the_venerable_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1300,6 +1355,7 @@
     "santos": [
       {
         "name": "San Felipe Neri",
+        "santoId": "philip_neri_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1309,6 +1365,7 @@
     "santos": [
       {
         "name": "Santa Juana de Arco",
+        "santoId": "sanctus_0530_santa_juana_de_arco",
         "edicionCC": true,
         "content": [
           {
@@ -1364,6 +1421,7 @@
     "santos": [
       {
         "name": "Visitación de Nuestra Señora a Santa Isabel",
+        "santoId": "visitation_of_mary",
         "edicionCC": true,
         "content": []
       }
@@ -1373,6 +1431,7 @@
     "santos": [
       {
         "name": "San Justino mártir",
+        "santoId": "justin_martyr",
         "edicionCC": true,
         "content": []
       }
@@ -1382,6 +1441,7 @@
     "santos": [
       {
         "name": "Sagrado Corazón de Jesús",
+        "celebracionId": "most_sacred_heart_of_jesus",
         "edicionCC": true,
         "content": []
       }
@@ -1391,6 +1451,7 @@
     "santos": [
       {
         "name": "Inmaculado Corazón de María",
+        "celebracionId": "immaculate_heart_of_mary",
         "edicionCC": true,
         "content": []
       }
@@ -1400,6 +1461,7 @@
     "santos": [
       {
         "name": "San Marcelino Champagnat",
+        "santoId": "sanctus_0606_san_marcelino_champagnat",
         "edicionCC": true,
         "content": [
           {
@@ -1455,6 +1517,7 @@
     "santos": [
       {
         "name": "San Efrén de Siria",
+        "santoId": "ephrem_the_syrian_deacon",
         "edicionCC": true,
         "content": []
       }
@@ -1464,6 +1527,7 @@
     "santos": [
       {
         "name": "San Bernabé apóstol",
+        "santoId": "barnabas_apostle",
         "edicionCC": true,
         "content": []
       }
@@ -1473,6 +1537,7 @@
     "santos": [
       {
         "name": "San Antonio de Padua",
+        "santoId": "anthony_of_padua_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1482,6 +1547,7 @@
     "santos": [
       {
         "name": "Santa María Micaela del Santísimo Sacramento",
+        "santoId": "maria_micaela_of_the_blessed_sacrament_desmaisieres_virgin",
         "edicionCC": true,
         "content": []
       }
@@ -1491,6 +1557,7 @@
     "santos": [
       {
         "name": "San Luis Gonzaga",
+        "santoId": "aloysius_gonzaga_religious",
         "edicionCC": true,
         "content": []
       }
@@ -1500,6 +1567,7 @@
     "santos": [
       {
         "name": "Santo Tomás Moro",
+        "santoId": "thomas_more_martyr",
         "edicionCC": true,
         "content": [
           {
@@ -1573,6 +1641,7 @@
     "santos": [
       {
         "name": "San Juan Bautista (Natividad)",
+        "santoId": "nativity_of_john_the_baptist",
         "edicionCC": true,
         "content": []
       }
@@ -1582,6 +1651,7 @@
     "santos": [
       {
         "name": "San Josemaría Escrivá",
+        "santoId": "sanctus_0626_san_josemaria_escriva",
         "edicionCC": true,
         "content": [
           {
@@ -1633,6 +1703,7 @@
     "santos": [
       {
         "name": "Nuestra Señora del Perpetuo Socorro",
+        "santoId": "our_lady_of_perpetual_help",
         "edicionCC": true,
         "content": [
           {
@@ -1689,6 +1760,7 @@
     "santos": [
       {
         "name": "San Ireneo de Lyon",
+        "santoId": "irenaeus_of_lyon_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1698,6 +1770,7 @@
     "santos": [
       {
         "name": "San Pedro apóstol",
+        "santoId": "peter_apostle",
         "edicionCC": true,
         "content": []
       }
@@ -1707,6 +1780,7 @@
     "santos": [
       {
         "name": "Santos Protomártires de la Iglesia Romana",
+        "santoId": "first_martyrs_of_the_holy_roman_church",
         "edicionCC": true,
         "content": []
       }
@@ -1714,9 +1788,11 @@
   },
   "08-08": {
     "principal": "Santo Domingo de Guzmán",
+    "principalId": "dominic_de_guzman_priest",
     "santos": [
       {
         "name": "Santo Domingo de Guzmán",
+        "santoId": "dominic_de_guzman_priest",
         "image": "1280px-fra-angelico-052.jpg",
         "edicionCC": true,
         "content": [
@@ -1736,6 +1812,7 @@
     "santos": [
       {
         "name": "San Bernardo de Claraval",
+        "santoId": "bernard_of_clairvaux_abbot",
         "image": "aparicion-de-la-virgen-a-san-bernardo.jpg",
         "edicionCC": true,
         "content": [
@@ -1751,6 +1828,7 @@
     "santos": [
       {
         "name": "Todos los Santos",
+        "santoId": "all_saints",
         "edicionCC": true,
         "content": []
       }
@@ -1760,6 +1838,7 @@
     "santos": [
       {
         "name": "San Martín de Porres",
+        "santoId": "martin_de_porres_religious",
         "edicionCC": true,
         "content": []
       }
@@ -1769,6 +1848,7 @@
     "santos": [
       {
         "name": "San Carlos Borromeo",
+        "santoId": "charles_borromeo_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1778,6 +1858,7 @@
     "santos": [
       {
         "name": "Dedicación de la Basílica de Letrán",
+        "santoId": "dedication_of_the_lateran_basilica",
         "edicionCC": true,
         "content": []
       }
@@ -1787,6 +1868,7 @@
     "santos": [
       {
         "name": "San León Magno papa",
+        "santoId": "leo_i_the_great_pope",
         "edicionCC": true,
         "content": []
       }
@@ -1796,6 +1878,7 @@
     "santos": [
       {
         "name": "San Martín de Tours",
+        "santoId": "martin_of_tours_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1805,6 +1888,7 @@
     "santos": [
       {
         "name": "San Esteban Teodoro Cuénot",
+        "santoId": "sanctus_1114_san_esteban_teodoro_cuenot",
         "edicionCC": true,
         "content": []
       }
@@ -1814,6 +1898,7 @@
     "santos": [
       {
         "name": "San Alberto Magno",
+        "santoId": "albert_the_great_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1823,6 +1908,7 @@
     "santos": [
       {
         "name": "Santa Isabel de Hungría",
+        "santoId": "elizabeth_of_hungary_religious",
         "edicionCC": true,
         "content": []
       }
@@ -1832,6 +1918,7 @@
     "santos": [
       {
         "name": "Dedicación de las basílicas de San Pedro y San Pablo",
+        "santoId": "dedication_of_the_basilicas_of_saints_peter_and_paul_apostles",
         "edicionCC": true,
         "content": []
       }
@@ -1841,6 +1928,7 @@
     "santos": [
       {
         "name": "Presentación de santa María Virgen",
+        "santoId": "presentation_of_the_blessed_virgin_mary",
         "edicionCC": true,
         "content": []
       }
@@ -1850,11 +1938,13 @@
     "santos": [
       {
         "name": "Santa Cecilia de Roma",
+        "santoId": "cecilia_of_rome_virgin",
         "edicionCC": true,
         "content": []
       },
       {
         "name": "Jesucristo, Rey del Universo",
+        "celebracionId": "our_lord_jesus_christ_king_of_the_universe",
         "edicionCC": true,
         "content": []
       }
@@ -1864,6 +1954,7 @@
     "santos": [
       {
         "name": "Beato Miguel Agustín Pro",
+        "santoId": "miguel_agustin_pro_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1873,6 +1964,7 @@
     "santos": [
       {
         "name": "Santa Catalina de Alejandría",
+        "santoId": "catherine_of_alexandria_virgin",
         "edicionCC": true,
         "content": []
       }
@@ -1882,6 +1974,7 @@
     "santos": [
       {
         "name": "Santa Catalina Labouré",
+        "santoId": "sanctus_1128_santa_catalina_laboure",
         "edicionCC": true,
         "content": []
       }
@@ -1891,6 +1984,7 @@
     "santos": [
       {
         "name": "San Andrés apóstol",
+        "santoId": "andrew_apostle",
         "edicionCC": true,
         "content": []
       }
@@ -1900,6 +1994,7 @@
     "santos": [
       {
         "name": "San Francisco Javier",
+        "santoId": "francis_xavier_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1909,6 +2004,7 @@
     "santos": [
       {
         "name": "San Juan Damasceno",
+        "santoId": "john_damascene_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1918,6 +2014,7 @@
     "santos": [
       {
         "name": "San Nicolás de Bari",
+        "santoId": "nicholas_of_myra_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1927,6 +2024,7 @@
     "santos": [
       {
         "name": "San Ambrosio de Milán",
+        "santoId": "ambrose_of_milan_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -1936,6 +2034,7 @@
     "santos": [
       {
         "name": "Inmaculada Concepción de María",
+        "santoId": "immaculate_conception_of_the_blessed_virgin_mary",
         "edicionCC": true,
         "content": []
       }
@@ -1945,6 +2044,7 @@
     "santos": [
       {
         "name": "San Juan Diego",
+        "santoId": "juan_diego_cuauhtlatoatzin",
         "edicionCC": true,
         "content": []
       }
@@ -1954,6 +2054,7 @@
     "santos": [
       {
         "name": "Nuestra Señora de Loreto",
+        "santoId": "our_lady_of_loreto",
         "edicionCC": true,
         "content": []
       }
@@ -1963,6 +2064,7 @@
     "santos": [
       {
         "name": "Nuestra Señora de Guadalupe",
+        "santoId": "our_lady_of_guadalupe",
         "edicionCC": true,
         "content": []
       }
@@ -1972,6 +2074,7 @@
     "santos": [
       {
         "name": "Santa Lucía de Siracusa",
+        "santoId": "lucy_of_syracuse_virgin",
         "edicionCC": true,
         "content": []
       }
@@ -1981,6 +2084,7 @@
     "santos": [
       {
         "name": "San Juan de la Cruz",
+        "santoId": "john_of_the_cross_priest",
         "edicionCC": true,
         "content": []
       }
@@ -1990,6 +2094,7 @@
     "santos": [
       {
         "name": "Navidad",
+        "santoId": "sanctus_1225_natividad_de_nuestro_senor_jesucristo",
         "edicionCC": true,
         "content": []
       }
@@ -1999,6 +2104,7 @@
     "santos": [
       {
         "name": "San Esteban",
+        "santoId": "stephen_the_first_martyr",
         "edicionCC": true,
         "content": []
       }
@@ -2008,11 +2114,13 @@
     "santos": [
       {
         "name": "San Juan evangelista y apóstol",
+        "santoId": "john_apostle",
         "edicionCC": true,
         "content": []
       },
       {
         "name": "Sagrada Familia",
+        "celebracionId": "holy_family_of_jesus_mary_and_joseph",
         "edicionCC": true,
         "content": []
       }
@@ -2022,6 +2130,7 @@
     "santos": [
       {
         "name": "Santos Inocentes",
+        "santoId": "holy_innocents_martyrs",
         "edicionCC": true,
         "content": []
       }
@@ -2031,6 +2140,7 @@
     "santos": [
       {
         "name": "Santo Tomas Becket",
+        "santoId": "thomas_becket_bishop",
         "edicionCC": true,
         "content": []
       }
@@ -2040,6 +2150,7 @@
     "santos": [
       {
         "name": "San Silvestre I papa",
+        "santoId": "sylvester_i_pope",
         "edicionCC": true,
         "content": []
       }
