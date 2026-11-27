@@ -1,10 +1,9 @@
 {
-  "purgeUpTo": 11,
+  "purgeUpTo": 32,
   "urgentMinVersion": 99,
   "checkIntervalHours": 168,
   "featureOverrides": {
     "shareWidget": "dev",
-    "shareNotes": "dev",
-    "santoralById": "dev"
+    "shareNotes": "dev"
   }
 }
