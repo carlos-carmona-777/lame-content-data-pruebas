@@ -4,6 +4,7 @@
   "checkIntervalHours": 168,
   "featureOverrides": {
     "shareWidget": "dev",
-    "shareNotes": "dev"
+    "shareNotes": "dev",
+    "santoralById": "dev"
   }
 }

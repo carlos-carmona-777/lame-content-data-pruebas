@@ -1,12 +1,12 @@
 {
-  "contentVersion": 31,
+  "contentVersion": 32,
   "minSchema": 1,
   "generatedAt": "2026-11-26",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data-pruebas/releases/latest/download/",
   "bundle": {
     "file": "content_bundle.json",
-    "bytes": 548721,
-    "sha256": "0dfc480aa1c3492993efd8fdca2962537dd8d2b4e703958f7199e87b8cad7302"
+    "bytes": 471325,
+    "sha256": "5fabad19e80ccc2feb0250de5f98e3ee811307e4157216839751a5754f124473"
   },
   "images": [
     {
@@ -1288,13 +1288,13 @@
     },
     {
       "file": "santoral.json",
-      "bytes": 2000000,
-      "sha256": "4e723c48ffbb2c58bdba46083437d17b6a8e70bcf08c4cb837bc393967868d2f"
+      "bytes": 4232629,
+      "sha256": "ee4d11d069f029efbcd735a8881d347b4c5bcbc11a114d221f92fdf7d455c240"
     },
     {
       "file": "santoral_rico.json",
-      "bytes": 209731,
-      "sha256": "7cb4828b52c220e237d6d36655557072da16755eaa8a9a9fae94af4d25625aa7"
+      "bytes": 209730,
+      "sha256": "f2a436928de9da1ccdc743ac076acf27b3dabbd6fd5739717ee152aeb092df0f"
     },
     {
       "file": "readings-latam.json",
