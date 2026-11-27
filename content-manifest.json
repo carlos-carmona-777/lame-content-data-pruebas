@@ -1,5 +1,5 @@
 {
-  "contentVersion": 33,
+  "contentVersion": 34,
   "minSchema": 1,
   "generatedAt": "2026-11-26",
   "baseUrl": "https://github.com/carlos-carmona-777/lame-content-data-pruebas/releases/latest/download/",
@@ -1288,8 +1288,8 @@
     },
     {
       "file": "santoral.json",
-      "bytes": 4232629,
-      "sha256": "ee4d11d069f029efbcd735a8881d347b4c5bcbc11a114d221f92fdf7d455c240"
+      "bytes": 2000000,
+      "sha256": "4e723c48ffbb2c58bdba46083437d17b6a8e70bcf08c4cb837bc393967868d2f"
     },
     {
       "file": "santoral_rico.json",
